@@ -1,6 +1,7 @@
 #change code
 #now made a change
 #to check git diff-staged
+#ok
 print("this is the way to get output")
 if 1<2:
     print("hello")
